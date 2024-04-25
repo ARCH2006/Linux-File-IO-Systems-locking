@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 
+![Screenshot 2024-04-25 110311](https://github.com/ARCH2006/Linux-File-IO-Systems-locking/assets/144300030/4ab8a292-74fd-42a3-b992-077a0d624396)
 
 
 
@@ -33,6 +34,8 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+1
+![Screenshot 2024-04-25 110543](https://github.com/ARCH2006/Linux-File-IO-Systems-locking/assets/144300030/b07fb395-b33f-42dd-9a42-45cc52f78b11)
 
 
 
